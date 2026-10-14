@@ -1,0 +1,4 @@
+/paiza-go
+.gocache/
+*.test
+*.out
